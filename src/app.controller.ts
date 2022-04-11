@@ -14,4 +14,6 @@ export class AppController {
   getObject():any{
     return this.appService.getObject();        
   }
+
+  
 }
